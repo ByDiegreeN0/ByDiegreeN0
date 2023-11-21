@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-
-
 🚀 Web Application Developer | HTML | CSS | JavaScript | PHP | MySQL | Laravel 🚀
 
 Hello! I'm Diego Garcia, a passionate web application developer with a solid experience in key technologies for crafting innovative digital solutions. My focus revolves around delivering exceptional user experiences and building robust, scalable applications.
@@ -25,4 +23,3 @@ I am passionate about teamwork and collaboration, always seeking to learn and sh
 📈 Objective:
 
 To contribute to the success of exciting and challenging technological projects, applying my technical skills.
-
