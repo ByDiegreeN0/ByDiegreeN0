@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**ByDiegreeN0/ByDiegreeN0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 🚀 Web Application Developer | HTML | CSS | JavaScript | PHP | MySQL | Laravel 🚀
 
@@ -28,4 +25,4 @@ I am passionate about teamwork and collaboration, always seeking to learn and sh
 📈 Objective:
 
 To contribute to the success of exciting and challenging technological projects, applying my technical skills.
--->
+
